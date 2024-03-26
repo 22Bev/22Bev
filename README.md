@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Your Name: username
+## I am Belvin Rotich
 
 **Backend Developer | Cybersecurity Enthusiast**
 
@@ -18,7 +18,7 @@ I'm a passionate developer with a strong foundation in backend technologies like
 
 **Open Source Contributions:**
 
-* (List any open-source projects you've contributed to. If you haven't yet, consider contributing to open-source projects to showcase your skills and gain experience.)
+* 
 
 **Interests:**
 
@@ -32,8 +32,7 @@ I'm a passionate developer with a strong foundation in backend technologies like
 
 **Contact:**
 
-* Feel free to reach out to me via email: [[email address removed]] or connect with me on LinkedIn: [your_linkedin_profile_URL]
-
+* Feel free to reach out to me via email: [ropbev@gmail.com] 
 **Additional Notes:**
 
 * Consider adding links to your personal website or blog (if applicable) for a more comprehensive portfolio.
