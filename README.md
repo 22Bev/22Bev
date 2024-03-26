@@ -33,11 +33,6 @@ I'm a passionate developer with a strong foundation in backend technologies like
 **Contact:**
 
 * Feel free to reach out to me via email: [ropbev@gmail.com] 
-**Additional Notes:**
-
-* Consider adding links to your personal website or blog (if applicable) for a more comprehensive portfolio.
-* You can tailor this portfolio further by mentioning specific projects you've worked on or areas within cybersecurity or Python that pique your interest.
-* Showcase your problem-solving skills by mentioning any coding challenges you've participated in or solved.
 
 
 <!--
